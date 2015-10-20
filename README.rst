@@ -109,4 +109,4 @@ Sample Code2
     """
 
 
-.. _`White Paper`: http://qiita.com/haminiku/items/3c8f0d43d82c0d58d7da
+.. _`White Paper`: http://qiita.com/haminiku/items/4106395b9580fbd6edf2
