@@ -22,7 +22,7 @@ Sample Code
 .. code-block:: python
 
     # 文章からtfidfを出力(Get TF-IDF from text)
-    from simple_tfidf_japanese import TFIDF
+    from simple_tfidf_japanese.tfidf import TFIDF
     text = "肉フェスNIIGATAで肉三昧の夜ごはん❤︎ステーキハウスあづまさんの雪室熟成新潟県産牛ステーキおいしい*\(^o^)/*お塩でもワサビでもぴったり！"
     tfidf1 = TFIDF.gen(text, enable_one_char=1)
     for key, value in tfidf1:

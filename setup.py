@@ -1,5 +1,5 @@
 from setuptools import setup
-from japan_holiday import __version__
+from simple_tfidf_japanese import __version__
 import os
 
 f = open(os.path.join(os.path.dirname(__file__), 'README.rst'))
@@ -7,7 +7,7 @@ long_description = f.read()
 f.close()
 
 setup(
-    name='japan_holiday',
+    name='simple_tfidf_japanese',
     version=__version__,
     description='Japanese TF-IDF',
     long_description=long_description,
