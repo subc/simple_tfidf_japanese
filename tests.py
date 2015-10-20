@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import absolute_import, unicode_literals
-from tfidf import TFIDF
+from simple_tfidf_japanese import TFIDF
 
 
 def test_similarity():
