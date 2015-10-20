@@ -23,7 +23,7 @@ setup(
                       'beautifulsoup4 >= 4.4.1'],
     license='MIT License',
     zip_safe=False,
-    keywords=['TF-IDF', 'Japanese'],
+    keywords=['tfidf', 'TF-IDF', 'Japanese'],
     classifiers=(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
